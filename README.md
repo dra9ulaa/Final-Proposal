@@ -1,6 +1,8 @@
+## Final Project Proposal _ver.1
+
 #### 1. Summary
 
-- The idea of the project is to visualize and implement the conceptual graphics on the surface. By doing so there will be an interesting experiences from the configuration. The project will be using projection tools, projected on surfaces by giving visual different experiences. 
+- The idea of the project is to visualize and implement the conceptual graphics on the surface. By doing so there will be interesting experiences from the configuration. The project will be using projection tools, projected on surfaces by giving visual different experiences. 
 
 https://lightform.com/projects/gabriel-schama
 
